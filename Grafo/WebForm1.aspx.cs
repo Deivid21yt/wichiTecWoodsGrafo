@@ -81,26 +81,17 @@ namespace Grafo
             {
                 ListBox3.Items.Add(s);
             }
+           
         }
 
         protected void btnMostrarAristas_Click(object sender, EventArgs e)
         {
             string msj = "";
             int posiVertx = -5;
-            string[] aristas = null;
             List<string> aristas2 = null;
             if (ListBox3.SelectedIndex != -1)
             {
                 posiVertx = ListBox3.SelectedIndex;
-                aristas = grafo.mostrarAristasVertice(posiVertx, ref msj);
-                //string script = $"alert('{msj}');";
-                //ClientScript.RegisterStartupScript(this.GetType(), "Alert", script, true);
-                //Mostrar informacion de las aristas
-                ListBox1.Items.Clear();
-                foreach (string w in aristas)
-                {
-                    ListBox1.Items.Add(w);
-                }
                 aristas2 = grafo.mostrarAristasVertice2(posiVertx, ref msj);
                 ListBox2.Items.Clear();
                 foreach (string w in aristas2)
@@ -157,6 +148,7 @@ namespace Grafo
             {
                 int vertice = int.Parse(txtVerticeBuscar.Text);
                 int posicion = grafo.BuscarVerticeTopologico(vertice);
+                TextBox3.Text = $"El Vértice:  { vertice} esta en la posición {posicion}";
                 script = $"alert('El vértice {vertice} se encuentra en la posición {posicion} del orden topológico.');";
                 ClientScript.RegisterStartupScript(this.GetType(), "Alert", script, true);
             }

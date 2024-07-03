@@ -17,8 +17,8 @@ function mostrarGrafo(vertices) {
     // vamos a generar todos los puntos a lo largo de una circunferencia
     let grados = 0;
     let inc_grados = 360 / vertices.length; // Ajuste automático del incremento de grados
-    let hipote = 170;
-    let radiocir = 20;
+    let hipote = 280;
+    let radiocir = 50;
     let trigo2 = new Trigonometria(grados, hipote);
     let uncirculo = new Circulo();
     let radianes = 0;
@@ -40,7 +40,7 @@ function mostrarGrafo(vertices) {
         uncirculo.posiX = xxc;
         uncirculo.posiY = yyc;
         uncirculo.radio = radiocir;
-        uncirculo.color = 'green';
+        uncirculo.color = '#2E69D2';
         uncirculo.draw(context);
 
         circulos.push({ x: xxc, y: yyc, radio: radiocir, nombreDato: vertices[i].nombreDato, aristas: vertices[i].aristas });
@@ -48,7 +48,7 @@ function mostrarGrafo(vertices) {
         // Cambios
         context.textAlign = "center";
         context.textBaseline = "middle";
-        context.font = "14px Candara";
+        context.font = "18px Candara";
         context.fillText(vertices[i].nombreDato, xxc, yyc);
     }
 
