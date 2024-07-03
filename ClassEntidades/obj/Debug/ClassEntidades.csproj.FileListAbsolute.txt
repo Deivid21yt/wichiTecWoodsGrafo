@@ -1,0 +1,13 @@
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\ClassEntidades\bin\Debug\ClassEntidades.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\ClassEntidades\bin\Debug\ClassEntidades.pdb
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\ClassEntidades\obj\Debug\ClassEntidades.csproj.CoreCompileInputs.cache
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\ClassEntidades\obj\Debug\ClassEntidades.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\ClassEntidades\obj\Debug\ClassEntidades.pdb
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\ClassEntidades\bin\Debug\ClassEntidades.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\ClassEntidades\bin\Debug\ClassEntidades.pdb
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\ClassEntidades\obj\Debug\ClassEntidades.csproj.CoreCompileInputs.cache
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\ClassEntidades\obj\Debug\ClassEntidades.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\ClassEntidades\obj\Debug\ClassEntidades.pdb
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\ClassEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\ClassEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\ClassEntidades\obj\Debug\ClassEntidades.csproj.CopyComplete

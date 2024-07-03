@@ -1,0 +1,199 @@
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\Grafo.dll.config
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\Grafo.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\Grafo.pdb
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\csc.exe
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\csc.exe.config
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\csc.rsp
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\csi.exe
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\csi.exe.config
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\csi.rsp
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\Microsoft.Managed.Core.targets
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\System.AppContext.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\System.Collections.Immutable.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\System.Console.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\System.Globalization.Calendars.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\System.IO.Compression.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\System.IO.FileSystem.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\System.Net.Http.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\System.Net.Sockets.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\System.Reflection.Metadata.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\System.ValueTuple.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\System.Xml.XmlDocument.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\System.Xml.XPath.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\vbc.exe
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\vbc.exe.config
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\vbc.rsp
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\VBCSCompiler.exe
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\roslyn\VBCSCompiler.exe.config
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\obj\Debug\Grafo.csproj.CoreCompileInputs.cache
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\obj\Debug\Grafo.csproj.CopyComplete
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\obj\Debug\Grafo.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\obj\Debug\Grafo.pdb
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\ClassDAL.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\ClassEntidades.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\ClassLogicaNego.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\ClassDAL.pdb
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\ClassEntidades.pdb
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\ClassLogicaNego.pdb
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\Grafo.dll.config
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\Grafo.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\Grafo.pdb
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\csc.exe
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\csc.exe.config
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\csc.rsp
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\csi.exe
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\csi.exe.config
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\csi.rsp
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\Microsoft.Managed.Core.targets
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.AppContext.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.Collections.Immutable.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.Console.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.Globalization.Calendars.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.IO.Compression.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.IO.FileSystem.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.Net.Http.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.Net.Sockets.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.Reflection.Metadata.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.ValueTuple.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.Xml.XmlDocument.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.Xml.XPath.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\vbc.exe
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\vbc.exe.config
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\vbc.rsp
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\VBCSCompiler.exe
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\VBCSCompiler.exe.config
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\ClassDAL.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\ClassEntidades.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\ClassLogicaNego.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\ClassDAL.pdb
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\ClassEntidades.pdb
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\ClassLogicaNego.pdb
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\obj\Debug\Grafo.csproj.CoreCompileInputs.cache
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\obj\Debug\Grafo.csproj.CopyComplete
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\obj\Debug\Grafo.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\obj\Debug\Grafo.pdb
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\Grafo.dll.config
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\Grafo.dll
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\Grafo.pdb
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\csc.exe
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\csc.exe.config
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\csc.rsp
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\csi.exe
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\csi.exe.config
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\csi.rsp
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\Microsoft.Managed.Core.targets
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.AppContext.dll
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.Collections.Immutable.dll
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.Console.dll
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.Globalization.Calendars.dll
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.IO.Compression.dll
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.IO.FileSystem.dll
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.Net.Http.dll
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.Net.Sockets.dll
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.Reflection.Metadata.dll
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.ValueTuple.dll
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.Xml.XmlDocument.dll
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.Xml.XPath.dll
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\vbc.exe
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\vbc.exe.config
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\vbc.rsp
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\VBCSCompiler.exe
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\roslyn\VBCSCompiler.exe.config
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\ClassDAL.dll
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\ClassEntidades.dll
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\ClassLogicaNego.dll
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\ClassDAL.pdb
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\ClassEntidades.pdb
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\ClassLogicaNego.pdb
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\obj\Debug\Grafo.csproj.AssemblyReference.cache
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\obj\Debug\Grafo.csproj.CoreCompileInputs.cache
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\obj\Debug\Grafo.csproj.Up2Date
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\obj\Debug\Grafo.dll
+D:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\obj\Debug\Grafo.pdb
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\Newtonsoft.Json.dll
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\bin\Newtonsoft.Json.xml
+F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\Grafo\obj\Debug\Grafo.csproj.AssemblyReference.cache
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\Newtonsoft.Json.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\bin\Newtonsoft.Json.xml
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\Grafo\obj\Debug\Grafo.csproj.AssemblyReference.cache
