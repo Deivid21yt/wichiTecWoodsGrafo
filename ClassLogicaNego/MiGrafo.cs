@@ -223,6 +223,60 @@ namespace ClassLogicaNego
 
             return (camino, distancias[destino]);
         }
+        public List<int> DFS(int startVertex)
+        {
+            List<int> resultado = new List<int>();
+            bool[] visitado = new bool[ListaAdyc.Count];
+            Stack<int> stack = new Stack<int>();
+            stack.Push(startVertex);
+
+            while (stack.Count > 0)
+            {
+                int v = stack.Pop();
+
+                if (!visitado[v])
+                {
+                    visitado[v] = true;
+                    resultado.Add(v);
+
+                    foreach (var arista in ListaAdyc[v].ListaEnlaces.Reverse())
+                    {
+                        if (!visitado[arista.vertexNum])
+                        {
+                            stack.Push(arista.vertexNum);
+                        }
+                    }
+                }
+            }
+
+            return resultado;
+        }
+
+        public List<int> BFS(int startVertex)
+        {
+            List<int> resultado = new List<int>();
+            bool[] visitado = new bool[ListaAdyc.Count];
+            Queue<int> queue = new Queue<int>();
+            queue.Enqueue(startVertex);
+            visitado[startVertex] = true;
+
+            while (queue.Count > 0)
+            {
+                int v = queue.Dequeue();
+                resultado.Add(v);
+
+                foreach (var arista in ListaAdyc[v].ListaEnlaces)
+                {
+                    if (!visitado[arista.vertexNum])
+                    {
+                        queue.Enqueue(arista.vertexNum);
+                        visitado[arista.vertexNum] = true;
+                    }
+                }
+            }
+
+            return resultado;
+        }
 
     }
 }

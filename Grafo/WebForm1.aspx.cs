@@ -132,39 +132,7 @@ namespace Grafo
             ClientScript.RegisterStartupScript(this.GetType(), "MostrarGrafo", script, true);
         }
 
-        protected void ListBox3_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            string msj = "";
-            int posiVertx = -5;
-            string[] aristas = null;
-            List<string> aristas2 = null;
-            if (ListBox3.SelectedIndex != -1)
-            {
-                posiVertx = ListBox3.SelectedIndex;
-                aristas = grafo.mostrarAristasVertice(posiVertx, ref msj);
-                //string script = $"alert('{msj}');";
-                //ClientScript.RegisterStartupScript(this.GetType(), "Alert", script, true);
-                //Mostrar informacion de las aristas
-                ListBox1.Items.Clear();
-                foreach (string w in aristas)
-                {
-                    ListBox1.Items.Add(w);
-                }
-                aristas2 = grafo.mostrarAristasVertice2(posiVertx, ref msj);
-                ListBox2.Items.Clear();
-                foreach (string w in aristas2)
-                {
-                    ListBox2.Items.Add(w);
-                }
-            }
-            else
-            {
-                string script = $"alert('Debe elegir un vértice de la lista');";
-                ClientScript.RegisterStartupScript(this.GetType(), "Alert", script, true);
 
-            }
-            
-        }
         // Métodos que estaban dentro de ListBox3_SelectedIndexChanged ahora deben estar aquí fuera
 
         protected void btnOrdenTopologico_Click(object sender, EventArgs e)
@@ -179,36 +147,104 @@ namespace Grafo
 
         protected void btnBuscarVerticeTopologico_Click(object sender, EventArgs e)
         {
-            int vertice = int.Parse(txtVerticeBuscar.Text);
-            int posicion = grafo.BuscarVerticeTopologico(vertice);
-            string script = $"alert('El vértice {vertice} se encuentra en la posición {posicion} del orden topológico.');";
-            ClientScript.RegisterStartupScript(this.GetType(), "Alert", script, true);
+            string script = "";
+            if (txtVerticeBuscar.Text == "")
+            {
+                script = $"alert('No,has dado el Vértice para buscar');";
+                ClientScript.RegisterStartupScript(this.GetType(), "Alert", script, true);
+            }
+            else
+            {
+                int vertice = int.Parse(txtVerticeBuscar.Text);
+                int posicion = grafo.BuscarVerticeTopologico(vertice);
+                script = $"alert('El vértice {vertice} se encuentra en la posición {posicion} del orden topológico.');";
+                ClientScript.RegisterStartupScript(this.GetType(), "Alert", script, true);
+            }
+            
         }
 
         protected void btnCaminoTopologico_Click(object sender, EventArgs e)
         {
-            int origen = int.Parse(txtOrigenTopologico.Text);
-            int destino = int.Parse(txtDestinoTopologico.Text);
-            List<int> camino = grafo.CaminoTopologico(origen, destino);
-            ListBox5.Items.Clear();
-            foreach (int v in camino)
+            string script = "";
+            if (txtOrigenTopologico.Text == "" || txtDestinoTopologico.Text == "")
             {
-                ListBox5.Items.Add(v.ToString());
+                script = $"alert('Te falta dar algun Vértice');";
+                ClientScript.RegisterStartupScript(this.GetType(), "Alert", script, true);
             }
+            else
+            {
+                int origen = int.Parse(txtOrigenTopologico.Text);
+                int destino = int.Parse(txtDestinoTopologico.Text);
+                List<int> camino = grafo.CaminoTopologico(origen, destino);
+                ListBox5.Items.Clear();
+                foreach (int v in camino)
+                {
+                    ListBox5.Items.Add(v.ToString());
+                }
+            }
+            
         }
 
         protected void btnDijkstra_Click(object sender, EventArgs e)
         {
-            int origen = int.Parse(txtOrigenDijkstra.Text);
-            int destino = int.Parse(txtDestinoDijkstra.Text);
-            var (camino, costo) = grafo.Dijkstra(origen, destino);
-            ListBox6.Items.Clear();
-            foreach (int v in camino)
+            string script = "";
+            if (txtOrigenDijkstra.Text == "" || txtDestinoDijkstra.Text == "")
             {
-                ListBox6.Items.Add(v.ToString());
+                script = $"alert('Te falta dar algun Vértice');";
+                ClientScript.RegisterStartupScript(this.GetType(), "Alert", script, true);
             }
-            string script = $"alert('El costo del camino más corto es: {costo}');";
-            ClientScript.RegisterStartupScript(this.GetType(), "Alert", script, true);
+            else
+            {
+                int origen = int.Parse(txtOrigenDijkstra.Text);
+                int destino = int.Parse(txtDestinoDijkstra.Text);
+                var (camino, costo) = grafo.Dijkstra(origen, destino);
+                ListBox6.Items.Clear();
+                foreach (int v in camino)
+                {
+                    ListBox6.Items.Add(v.ToString());
+                }
+                script = $"alert('El costo del camino más corto es: {costo}');";
+                ClientScript.RegisterStartupScript(this.GetType(), "Alert", script, true);
+            }
+            
+        }
+        protected void btnDFS_Click(object sender, EventArgs e)
+        {
+            string script = "";
+            if (txtDFS.Text == "")
+            {
+                script = $"alert('No has dado el Vértice para buscar');";
+                ClientScript.RegisterStartupScript(this.GetType(), "Alert", script, true);
+            }
+            else
+            {
+                int startVertex = int.Parse(txtDFS.Text);
+                List<int> recorridoDFS = grafo.DFS(startVertex);
+                ListBoxDFS.Items.Clear();
+                foreach (int v in recorridoDFS)
+                {
+                    ListBoxDFS.Items.Add(v.ToString());
+                }
+            }
+        }
+        protected void btnBFS_Click(object sender, EventArgs e)
+        {
+            string script = "";
+            if (txtBFS.Text == "")
+            {
+                script = $"alert('No has dado el Vértice para buscar');";
+                ClientScript.RegisterStartupScript(this.GetType(), "Alert", script, true);
+            }
+            else
+            {
+                int startVertex = int.Parse(txtBFS.Text);
+                List<int> recorridoBFS = grafo.BFS(startVertex);
+                ListBoxBFS.Items.Clear();
+                foreach (int v in recorridoBFS)
+                {
+                    ListBoxBFS.Items.Add(v.ToString());
+                }
+            }
         }
     }
 }

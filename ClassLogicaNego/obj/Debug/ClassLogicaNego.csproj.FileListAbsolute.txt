@@ -48,3 +48,17 @@ D:\INGENIERIA 9B\WEB INTEGRAL\Grafo2\ClassLogicaNego\obj\Debug\ClassLogicaNego.c
 D:\INGENIERIA 9B\WEB INTEGRAL\Grafo2\ClassLogicaNego\obj\Debug\ClassLogicaNego.csproj.CopyComplete
 D:\INGENIERIA 9B\WEB INTEGRAL\Grafo2\ClassLogicaNego\obj\Debug\ClassLogicaNego.dll
 D:\INGENIERIA 9B\WEB INTEGRAL\Grafo2\ClassLogicaNego\obj\Debug\ClassLogicaNego.pdb
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Movimientos durante el grafo\Grafo4\ClassLogicaNego\bin\Debug\ClassLogicaNego.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Movimientos durante el grafo\Grafo4\ClassLogicaNego\bin\Debug\ClassLogicaNego.pdb
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Movimientos durante el grafo\Grafo4\ClassLogicaNego\bin\Debug\ClassDAL.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Movimientos durante el grafo\Grafo4\ClassLogicaNego\bin\Debug\ClassEntidades.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Movimientos durante el grafo\Grafo4\ClassLogicaNego\bin\Debug\Newtonsoft.Json.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Movimientos durante el grafo\Grafo4\ClassLogicaNego\bin\Debug\System.ValueTuple.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Movimientos durante el grafo\Grafo4\ClassLogicaNego\bin\Debug\ClassDAL.pdb
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Movimientos durante el grafo\Grafo4\ClassLogicaNego\bin\Debug\ClassEntidades.pdb
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Movimientos durante el grafo\Grafo4\ClassLogicaNego\bin\Debug\Newtonsoft.Json.xml
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Movimientos durante el grafo\Grafo4\ClassLogicaNego\bin\Debug\System.ValueTuple.xml
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Movimientos durante el grafo\Grafo4\ClassLogicaNego\obj\Debug\ClassLogicaNego.csproj.CoreCompileInputs.cache
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Movimientos durante el grafo\Grafo4\ClassLogicaNego\obj\Debug\ClassLogicaNego.csproj.CopyComplete
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Movimientos durante el grafo\Grafo4\ClassLogicaNego\obj\Debug\ClassLogicaNego.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Movimientos durante el grafo\Grafo4\ClassLogicaNego\obj\Debug\ClassLogicaNego.pdb
