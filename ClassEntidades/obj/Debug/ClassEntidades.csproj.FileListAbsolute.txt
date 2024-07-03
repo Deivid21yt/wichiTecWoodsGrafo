@@ -11,3 +11,20 @@ F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\ClassEntidades\obj\Debug
 D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\ClassEntidades\bin\Debug\Newtonsoft.Json.dll
 D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\ClassEntidades\bin\Debug\Newtonsoft.Json.xml
 D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\ClassEntidades\obj\Debug\ClassEntidades.csproj.CopyComplete
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Movimientos durante el grafo\Grafo2\ClassEntidades\bin\Debug\ClassEntidades.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Movimientos durante el grafo\Grafo2\ClassEntidades\bin\Debug\ClassEntidades.pdb
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Movimientos durante el grafo\Grafo2\ClassEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Movimientos durante el grafo\Grafo2\ClassEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Movimientos durante el grafo\Grafo2\ClassEntidades\obj\Debug\ClassEntidades.csproj.AssemblyReference.cache
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Movimientos durante el grafo\Grafo2\ClassEntidades\obj\Debug\ClassEntidades.csproj.CoreCompileInputs.cache
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Movimientos durante el grafo\Grafo2\ClassEntidades\obj\Debug\ClassEntidades.csproj.CopyComplete
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Movimientos durante el grafo\Grafo2\ClassEntidades\obj\Debug\ClassEntidades.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Movimientos durante el grafo\Grafo2\ClassEntidades\obj\Debug\ClassEntidades.pdb
+D:\INGENIERIA 9B\WEB INTEGRAL\Grafo2\ClassEntidades\bin\Debug\ClassEntidades.dll
+D:\INGENIERIA 9B\WEB INTEGRAL\Grafo2\ClassEntidades\bin\Debug\ClassEntidades.pdb
+D:\INGENIERIA 9B\WEB INTEGRAL\Grafo2\ClassEntidades\bin\Debug\Newtonsoft.Json.dll
+D:\INGENIERIA 9B\WEB INTEGRAL\Grafo2\ClassEntidades\bin\Debug\Newtonsoft.Json.xml
+D:\INGENIERIA 9B\WEB INTEGRAL\Grafo2\ClassEntidades\obj\Debug\ClassEntidades.csproj.CoreCompileInputs.cache
+D:\INGENIERIA 9B\WEB INTEGRAL\Grafo2\ClassEntidades\obj\Debug\ClassEntidades.csproj.CopyComplete
+D:\INGENIERIA 9B\WEB INTEGRAL\Grafo2\ClassEntidades\obj\Debug\ClassEntidades.dll
+D:\INGENIERIA 9B\WEB INTEGRAL\Grafo2\ClassEntidades\obj\Debug\ClassEntidades.pdb

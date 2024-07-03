@@ -119,8 +119,16 @@ namespace Grafo
         protected void btnGrafo_Click(object sender, EventArgs e)
         {
             // Convertimos la lista de vértices a JSON para enviarla a JavaScript
-            var verticesJson = JsonConvert.SerializeObject(grafo.ListaAdyc.Select(v => new { v.info.numeroDato, v.info.nombreDato }));
-            string script = $"mostrarGrafo({verticesJson});";
+            var verticesJson = JsonConvert.SerializeObject(grafo.ListaAdyc.Select(v => new {
+                v.info.numeroDato,
+                v.info.nombreDato,
+                aristas = v.ListaEnlaces.mostrarDatosColeccion().Select(a => new {
+                    numeroDato = grafo.ListaAdyc[a.vertexNum].info.numeroDato,
+                    nombreDato = grafo.ListaAdyc[a.vertexNum].info.nombreDato,
+                    costo = a.costo
+                })
+            }));
+            string script = $"console.log({verticesJson}); mostrarGrafo({verticesJson});";
             ClientScript.RegisterStartupScript(this.GetType(), "MostrarGrafo", script, true);
         }
 
@@ -155,6 +163,52 @@ namespace Grafo
                 ClientScript.RegisterStartupScript(this.GetType(), "Alert", script, true);
 
             }
+            
+        }
+        // Métodos que estaban dentro de ListBox3_SelectedIndexChanged ahora deben estar aquí fuera
+
+        protected void btnOrdenTopologico_Click(object sender, EventArgs e)
+        {
+            List<int> orden = grafo.OrdenTopologico();
+            ListBox4.Items.Clear();
+            foreach (int v in orden)
+            {
+                ListBox4.Items.Add(v.ToString());
+            }
+        }
+
+        protected void btnBuscarVerticeTopologico_Click(object sender, EventArgs e)
+        {
+            int vertice = int.Parse(txtVerticeBuscar.Text);
+            int posicion = grafo.BuscarVerticeTopologico(vertice);
+            string script = $"alert('El vértice {vertice} se encuentra en la posición {posicion} del orden topológico.');";
+            ClientScript.RegisterStartupScript(this.GetType(), "Alert", script, true);
+        }
+
+        protected void btnCaminoTopologico_Click(object sender, EventArgs e)
+        {
+            int origen = int.Parse(txtOrigenTopologico.Text);
+            int destino = int.Parse(txtDestinoTopologico.Text);
+            List<int> camino = grafo.CaminoTopologico(origen, destino);
+            ListBox5.Items.Clear();
+            foreach (int v in camino)
+            {
+                ListBox5.Items.Add(v.ToString());
+            }
+        }
+
+        protected void btnDijkstra_Click(object sender, EventArgs e)
+        {
+            int origen = int.Parse(txtOrigenDijkstra.Text);
+            int destino = int.Parse(txtDestinoDijkstra.Text);
+            var (camino, costo) = grafo.Dijkstra(origen, destino);
+            ListBox6.Items.Clear();
+            foreach (int v in camino)
+            {
+                ListBox6.Items.Add(v.ToString());
+            }
+            string script = $"alert('El costo del camino más corto es: {costo}');";
+            ClientScript.RegisterStartupScript(this.GetType(), "Alert", script, true);
         }
     }
 }

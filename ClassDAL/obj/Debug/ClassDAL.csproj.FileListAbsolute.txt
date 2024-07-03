@@ -17,3 +17,24 @@ F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\ClassDAL\obj\Debug\Class
 F:\9° Cuatri\Guillermo WenIntegral\ProductoGrafo\Grafo\ClassDAL\obj\Debug\ClassDAL.pdb
 D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\ClassDAL\bin\Debug\Newtonsoft.Json.dll
 D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Grafo\ClassDAL\bin\Debug\Newtonsoft.Json.xml
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Movimientos durante el grafo\Grafo2\ClassDAL\bin\Debug\ClassDAL.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Movimientos durante el grafo\Grafo2\ClassDAL\bin\Debug\ClassDAL.pdb
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Movimientos durante el grafo\Grafo2\ClassDAL\bin\Debug\ClassEntidades.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Movimientos durante el grafo\Grafo2\ClassDAL\bin\Debug\Newtonsoft.Json.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Movimientos durante el grafo\Grafo2\ClassDAL\bin\Debug\ClassEntidades.pdb
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Movimientos durante el grafo\Grafo2\ClassDAL\bin\Debug\Newtonsoft.Json.xml
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Movimientos durante el grafo\Grafo2\ClassDAL\obj\Debug\ClassDAL.csproj.AssemblyReference.cache
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Movimientos durante el grafo\Grafo2\ClassDAL\obj\Debug\ClassDAL.csproj.CoreCompileInputs.cache
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Movimientos durante el grafo\Grafo2\ClassDAL\obj\Debug\ClassDAL.csproj.CopyComplete
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Movimientos durante el grafo\Grafo2\ClassDAL\obj\Debug\ClassDAL.dll
+D:\clasesUNI\9no Cuatrimestre\Desarrollo Web Integral\Movimientos durante el grafo\Grafo2\ClassDAL\obj\Debug\ClassDAL.pdb
+D:\INGENIERIA 9B\WEB INTEGRAL\Grafo2\ClassDAL\bin\Debug\ClassDAL.dll
+D:\INGENIERIA 9B\WEB INTEGRAL\Grafo2\ClassDAL\bin\Debug\ClassDAL.pdb
+D:\INGENIERIA 9B\WEB INTEGRAL\Grafo2\ClassDAL\bin\Debug\ClassEntidades.dll
+D:\INGENIERIA 9B\WEB INTEGRAL\Grafo2\ClassDAL\bin\Debug\Newtonsoft.Json.dll
+D:\INGENIERIA 9B\WEB INTEGRAL\Grafo2\ClassDAL\bin\Debug\ClassEntidades.pdb
+D:\INGENIERIA 9B\WEB INTEGRAL\Grafo2\ClassDAL\bin\Debug\Newtonsoft.Json.xml
+D:\INGENIERIA 9B\WEB INTEGRAL\Grafo2\ClassDAL\obj\Debug\ClassDAL.csproj.CoreCompileInputs.cache
+D:\INGENIERIA 9B\WEB INTEGRAL\Grafo2\ClassDAL\obj\Debug\ClassDAL.csproj.CopyComplete
+D:\INGENIERIA 9B\WEB INTEGRAL\Grafo2\ClassDAL\obj\Debug\ClassDAL.dll
+D:\INGENIERIA 9B\WEB INTEGRAL\Grafo2\ClassDAL\obj\Debug\ClassDAL.pdb

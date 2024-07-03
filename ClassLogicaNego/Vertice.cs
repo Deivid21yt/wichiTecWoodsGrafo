@@ -11,7 +11,7 @@ namespace ClassLogicaNego
     public class Vertice
     {
         public Dato info = null;
-        internal ListaAristas ListaEnlaces = new ListaAristas();
+        public ListaAristas ListaEnlaces = new ListaAristas();
 
         public Vertice(Dato datos)
         {
@@ -25,7 +25,7 @@ namespace ClassLogicaNego
 
         public string[] muestraAristas()
         {
-            return ListaEnlaces.mostrarDatosColeccion();
+            return ListaEnlaces.mostrarDatosColeccion1();
         }
         public string infoDato()
         {
